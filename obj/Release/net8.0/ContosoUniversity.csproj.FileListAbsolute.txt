@@ -158,9 +158,6 @@ C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\Microsoft.C
 C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\Microsoft.CodeAnalysis.Scripting.dll
 C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\Microsoft.DiaSymReader.dll
 C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
-C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\Microsoft.Extensions.Primitives.dll
 C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\Microsoft.NET.StringTools.dll
 C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
 C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
@@ -179,11 +176,7 @@ C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\NuGet.Packa
 C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\NuGet.ProjectModel.dll
 C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\NuGet.Protocol.dll
 C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\NuGet.Versioning.dll
-C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\System.Diagnostics.DiagnosticSource.dll
-C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\System.IO.Pipelines.dll
 C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\System.Reflection.MetadataLoadContext.dll
-C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\System.Text.Encodings.Web.dll
-C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\System.Text.Json.dll
 C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\af\Humanizer.resources.dll
 C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\ar\Humanizer.resources.dll
 C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\az\Humanizer.resources.dll
@@ -271,4 +264,11 @@ C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\ru\Microsof
 C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\System.Drawing.Common.dll
+C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\System.Security.Permissions.dll
+C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\System.Windows.Extensions.dll
+C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\School\Winter25\TINFO200\LAB\ContosoUniversity\bin\Release\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll

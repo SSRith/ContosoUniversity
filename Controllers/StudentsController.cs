@@ -1,4 +1,7 @@
-﻿using System;
+﻿////////////////////////////////////////
+///add email address to create and edit
+///
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -54,7 +57,7 @@ namespace ContosoUniversity.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ID,LastName,FirstMidName,EnrollmentDate")] Student student)
+        public async Task<IActionResult> Create([Bind("ID,LastName,FirstMidName,EmailAddress,EnrollmentDate")] Student student)
         {
             if (ModelState.IsValid)
             {
@@ -86,7 +89,7 @@ namespace ContosoUniversity.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("ID,LastName,FirstMidName,EnrollmentDate")] Student student)
+        public async Task<IActionResult> Edit(int id, [Bind("ID,LastName,FirstMidName,Email Address,EnrollmentDate")] Student student)
         {
             if (id != student.ID)
             {
